@@ -1,3 +1,3 @@
 print("Welcome to Eduverse")
-print("Main")
+print("All")
 print("Team")
