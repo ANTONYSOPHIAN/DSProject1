@@ -1,2 +1,2 @@
-print("Welcome")
+print("Welcome to Eduverse")
 print("All")
